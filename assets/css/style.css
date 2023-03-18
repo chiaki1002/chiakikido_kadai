@@ -1,0 +1,34 @@
+body{
+  color:#494949
+}
+
+.food_title{
+  background-color: #C15123;
+  padding: 5px;
+  color: #fff;
+}
+
+.type1{
+  background-color: #efefef;
+  
+}
+
+.type2{
+  background-color: #efefef;
+}
+
+.type3{
+  background-color: #efefef;
+}
+
+.food_title a{
+  color:#494949;
+}
+
+ul{
+  padding: 0;
+}
+
+li{
+  list-style:none;
+}
